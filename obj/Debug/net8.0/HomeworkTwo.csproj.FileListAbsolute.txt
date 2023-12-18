@@ -1,0 +1,14 @@
+D:\GeekBrines\С#Advance\Seminar\LessonSeven\HomeworkTwo\HomeworkTwo\bin\Debug\net8.0\HomeworkTwo.exe
+D:\GeekBrines\С#Advance\Seminar\LessonSeven\HomeworkTwo\HomeworkTwo\bin\Debug\net8.0\HomeworkTwo.deps.json
+D:\GeekBrines\С#Advance\Seminar\LessonSeven\HomeworkTwo\HomeworkTwo\bin\Debug\net8.0\HomeworkTwo.runtimeconfig.json
+D:\GeekBrines\С#Advance\Seminar\LessonSeven\HomeworkTwo\HomeworkTwo\bin\Debug\net8.0\HomeworkTwo.dll
+D:\GeekBrines\С#Advance\Seminar\LessonSeven\HomeworkTwo\HomeworkTwo\bin\Debug\net8.0\HomeworkTwo.pdb
+D:\GeekBrines\С#Advance\Seminar\LessonSeven\HomeworkTwo\HomeworkTwo\obj\Debug\net8.0\HomeworkTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrines\С#Advance\Seminar\LessonSeven\HomeworkTwo\HomeworkTwo\obj\Debug\net8.0\HomeworkTwo.AssemblyInfoInputs.cache
+D:\GeekBrines\С#Advance\Seminar\LessonSeven\HomeworkTwo\HomeworkTwo\obj\Debug\net8.0\HomeworkTwo.AssemblyInfo.cs
+D:\GeekBrines\С#Advance\Seminar\LessonSeven\HomeworkTwo\HomeworkTwo\obj\Debug\net8.0\HomeworkTwo.csproj.CoreCompileInputs.cache
+D:\GeekBrines\С#Advance\Seminar\LessonSeven\HomeworkTwo\HomeworkTwo\obj\Debug\net8.0\HomeworkTwo.dll
+D:\GeekBrines\С#Advance\Seminar\LessonSeven\HomeworkTwo\HomeworkTwo\obj\Debug\net8.0\refint\HomeworkTwo.dll
+D:\GeekBrines\С#Advance\Seminar\LessonSeven\HomeworkTwo\HomeworkTwo\obj\Debug\net8.0\HomeworkTwo.pdb
+D:\GeekBrines\С#Advance\Seminar\LessonSeven\HomeworkTwo\HomeworkTwo\obj\Debug\net8.0\HomeworkTwo.genruntimeconfig.cache
+D:\GeekBrines\С#Advance\Seminar\LessonSeven\HomeworkTwo\HomeworkTwo\obj\Debug\net8.0\ref\HomeworkTwo.dll
